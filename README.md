@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Myself Renu Kshirsagar from Bengaluru,Karnataka state,India.
+:raising_hand: About me
+I am electronically Homebrewing from about two decades. By profession I am Embedded/Firmware developer & also a educator.  
