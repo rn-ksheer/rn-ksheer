@@ -20,6 +20,11 @@ Here are some ideas to get you started:
  
 <h3>:raising_hand:**About me** </h3>
 Electronically Homebrewing from about two decades. By profession I am Embedded/Firmware developer & also a educator.
+
+### My :tv: Channel:
+<p><a href="https://youtube.com/@experimental87?si=RntJHusQ0mEzVnoZ">
+<img src="https://github.com/user-attachments/assets/694290dc-c160-4f2f-ab03-c368a2e21372"youtube channel link" width="125" height="37">
+</a></p>
  <hr size="10" noshade/>
 
 <h3>:construction_worker:**Current Activity'S** </h3>
