@@ -24,7 +24,10 @@ Electronically Homebrewing from about two decades. By profession I am Embedded/F
 ### My :tv: Channel:
 <p><a href="https://youtube.com/@experimental87?si=RntJHusQ0mEzVnoZ">
 <img src="https://github.com/user-attachments/assets/694290dc-c160-4f2f-ab03-c368a2e21372"youtube channel link" width="125" height="37">
-</a></p>
+</a> &nbsp &nbsp
+<a href="https://www.qrz.com/db/VU3CQM">
+<img width="125" height="359" alt="QRZ-Logo" src="https://github.com/user-attachments/assets/08806910-53da-4bb4-8348-58f9f4f95dfb" />
+</p>
  <hr size="10" noshade/>
 
 <h3>:construction_worker:**Current Activity'S** </h3>
@@ -35,5 +38,8 @@ Electronically Homebrewing from about two decades. By profession I am Embedded/F
  <hr size="10" noshade/>
 
 📫 How to reach me: <a href="mailto:rn.ksheer+github@gmail.com">Send Email</a> - rn.ksheer+github@gmail.com
+ <hr size="10" noshade/>
+
+ 📮 You can also reach me on Telegram **UserName:** @cqmike
  <hr size="10" noshade/>
 
