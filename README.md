@@ -24,9 +24,14 @@ Electronically Homebrewing from about two decades. By profession I am Embedded/F
 ### My :tv: Channel:
 <p><a href="https://youtube.com/@experimental87?si=RntJHusQ0mEzVnoZ" target="_blank">
 <img src="https://github.com/user-attachments/assets/694290dc-c160-4f2f-ab03-c368a2e21372"youtube channel link" width="125" height="37">
-</a> &nbsp &nbsp
+</a> &nbsp &nbsp &nbsp
 <a href="https://www.qrz.com/db/VU3CQM" target="_blank">
 <img width="125" height="359" alt="QRZ-Logo" src="https://github.com/user-attachments/assets/08806910-53da-4bb4-8348-58f9f4f95dfb" />
+</a> &nbsp &nbsp &nbsp
+<a href="www.linkedin.com/in/renuksheer" target="_blank">
+<img width="100" height="100" alt="QRZ-Logo" src="https://github.com/user-attachments/assets/6737e173-2cd5-4ce6-bb4a-0cba6ae646fc" />
+
+ 
 </p>
  <hr size="10" noshade/>
 
