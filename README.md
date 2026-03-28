@@ -29,8 +29,8 @@ Electronically Homebrewing from about two decades. By profession I am Embedded/F
 <img width="125" height="359" alt="QRZ-Logo" src="https://github.com/user-attachments/assets/08806910-53da-4bb4-8348-58f9f4f95dfb" />
 </a> &nbsp &nbsp &nbsp
 <a href="https://www.linkedin.com/in/renuksheer" target="_blank">
-<img width="50" height="50" alt="QRZ-Logo" src="https://github.com/user-attachments/assets/6737e173-2cd5-4ce6-bb4a-0cba6ae646fc" />
-</p>
+<img width="50" height="50" alt="linkedin-Logo" src="https://github.com/user-attachments/assets/6737e173-2cd5-4ce6-bb4a-0cba6ae646fc" />
+</p>&nbsp &nbsp &nbsp
  <hr size="10" noshade/>
 
 <h3>:construction_worker:**Current Activity'S** </h3>
